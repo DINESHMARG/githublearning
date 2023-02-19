@@ -2,3 +2,5 @@ i how to learn web development
 daily practices is must
 good or bad
 bad or good
+worst or better
+better or worst
